@@ -1,0 +1,11 @@
+{
+ "chunks": 1989,
+ "chars": 468673,
+ "no-hiragana_segment_mb_per_s": 8.75,
+ "no-hiragana_question_terms_us": 269,
+ "today_question_terms_us": 238,
+ "no-hiragana_migration_s_per_100k_chunks": 6.5,
+ "uni-bigram_segment_mb_per_s": 8.07,
+ "uni-bigram_question_terms_us": 270,
+ "uni-bigram_migration_s_per_100k_chunks": 10.3
+}
